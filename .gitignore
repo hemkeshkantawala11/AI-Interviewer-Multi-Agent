@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+reports/*.html
+.pytest_cache/
+*.sqlite
+.DS_Store
